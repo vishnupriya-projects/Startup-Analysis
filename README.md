@@ -44,6 +44,10 @@ The following analysis was carried for indian startup-ecosystem.
 - considering funding rounds >=7 to find which companies having more funding amount with high success rates are flipkart, snapdeal are in top in terms of funding rounds followed by zomato, ola, manthan systems with 8 to 7 rounds of funding respectively, all these 5 companies are in top players in recent times in their categories which represents higher funding rounds.
 - It represents their could be a possible relationship b/w funding amount, funding rounds with startup success. To understand it further lets run statistical analysis.
 - Based on the statistical analyses conducted, it can be concluded that:
-There is no statistically significant difference in the funds raised by currently operating startups and startups that have closed, as per the independent sample t-test. There is no statistically significant association between the number of funding rounds and the status of startups, as indicated by the Chi-Square Test of Independence.
+There is no statistically significant difference in the funds raised by currently operating startups and startups that have closed, as per the independent sample t-test.
+There is no statistically significant association between the number of funding rounds and the status of startups, as indicated by the Chi-Square Test of Independence.
+
+### Acknowledgement
+Thanks to @aditi @dataanalystduo team for providing dataset & their guidence throughout the project.
 
 
